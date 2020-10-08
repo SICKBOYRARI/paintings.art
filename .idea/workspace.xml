@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4209b308-752b-4dea-884a-5fddc7e7a53f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/checkTextInputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/mask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iXrPz82hywLQwlZWPLG98kqtDj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +42,7 @@
       <updated>1602064757933</updated>
       <workItem from="1602064758969" duration="3865000" />
       <workItem from="1602076376850" duration="3151000" />
-      <workItem from="1602155994117" duration="3930000" />
+      <workItem from="1602155994117" duration="7513000" />
     </task>
     <servers />
   </component>
