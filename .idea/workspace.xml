@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4209b308-752b-4dea-884a-5fddc7e7a53f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/scrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/drop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
@@ -48,7 +46,7 @@
       <workItem from="1602155994117" duration="11298000" />
       <workItem from="1602241986881" duration="10161000" />
       <workItem from="1602261823626" duration="2046000" />
-      <workItem from="1602301455164" duration="4976000" />
+      <workItem from="1602301455164" duration="7839000" />
     </task>
     <servers />
   </component>
